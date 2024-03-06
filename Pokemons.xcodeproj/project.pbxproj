@@ -90,7 +90,7 @@
 		332AAFA729A9A49100BF9CD5 = {
 			isa = PBXGroup;
 			children = (
-				332AAFB229A9A49100BF9CD5 /* Recipes */,
+				332AAFB229A9A49100BF9CD5 /* Pokemons */,
 				332AAFC929A9A49100BF9CD5 /* PokemonsTests */,
 				332AAFB129A9A49100BF9CD5 /* Products */,
 				33F3EA5E29AC316000797497 /* Frameworks */,
@@ -106,7 +106,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		332AAFB229A9A49100BF9CD5 /* Recipes */ = {
+		332AAFB229A9A49100BF9CD5 /* Pokemons */ = {
 			isa = PBXGroup;
 			children = (
 				33E257632B98381E009E231C /* extension */,
@@ -119,7 +119,7 @@
 				332AAFBE29A9A49100BF9CD5 /* LaunchScreen.storyboard */,
 				332AAFC129A9A49100BF9CD5 /* Info.plist */,
 			);
-			path = Recipes;
+			path = Pokemons;
 			sourceTree = "<group>";
 		};
 		332AAFC929A9A49100BF9CD5 /* PokemonsTests */ = {
@@ -478,7 +478,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GCC_GENERATE_TEST_COVERAGE_FILES = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = recipes/Info.plist;
+				INFOPLIST_FILE = Pokemons/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -506,7 +506,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GCC_GENERATE_TEST_COVERAGE_FILES = NO;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = recipes/Info.plist;
+				INFOPLIST_FILE = Pokemons/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;

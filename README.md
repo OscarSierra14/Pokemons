@@ -38,15 +38,13 @@ Esta aplicación iOS implementa una Pokédex que muestra información sobre los 
 
 ### Configuración del Proyecto
 
-Este proyecto utiliza Swift Package Manager para gestionar las dependencias. Al clonar el repositorio, las dependencias deberían resolverse automáticamente. En caso de algún problema, asegúrate de que el archivo `Package.swift` esté configurado correctamente.
+Este proyecto utiliza Swift Package Manager para gestionar las dependencias. Al clonar el repositorio, las dependencias deberían resolverse automáticamente.
 
 ### Estructura del Proyecto
 
 - **PokémonList:** Contiene la implementación de la vista de lista de Pokémon.
-- **PokemonDetail:** Contiene la implementación de la vista de detalle de Pokémon.
-- **API:** Contiene las clases y estructuras relacionadas con la interacción con la API de Pokémon.
+- **PokemonDetail:** Contiene la implementación de la vista de detalle de Pokémon.=
 - **Utilities:** Contiene utilidades generales utilizadas en el proyecto.
-- **Resources:** Almacena los recursos estáticos como imágenes.
 
 ### Autor
 
